@@ -1,4 +1,4 @@
-# hackernews Full code
+# hackernews full code
 
 Application project in Mongo-Express-Angular-Node
 
