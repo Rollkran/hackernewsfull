@@ -2,7 +2,9 @@
 
 Application project in Mongo-Express-Angular-Node
 
-Mongodb table: hnews
+Mongodb db: hnews, collection: news
+requires a mongo database running locally in default 27017 port
+
 server run in port 3000 (Default)
 
 To force the first load of the database you must go to the following link:
