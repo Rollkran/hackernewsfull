@@ -9,6 +9,7 @@ To force the first load of the database you must go to the following link:
 
 http://localhost:3000/api/hacker
 
+for run project: npm start
 
 
 
