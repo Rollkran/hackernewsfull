@@ -1,0 +1,21 @@
+table {
+  width: 100%;
+}
+
+tr {
+    background-color: #fff;
+    border: 1px #ccc;
+}
+
+tr:hover{
+    background-color: #fafafa; 
+}
+
+.title{
+    color: #333;
+    font-size: 13pt;
+}
+
+.author{
+    color: #999;
+}
